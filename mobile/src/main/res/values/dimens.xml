@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="recyclerView_item_space">12dp</dimen>
+    <dimen name="recyclerView_item_radius">7dp</dimen>
+    <dimen name="recyclerview_item_width">225dp</dimen>
+    <dimen name="recyclerview_item_height">110dp</dimen>
+    <dimen name="recyclerView_item_space1">8dp</dimen>
+    <dimen name="recyclerview_item_width1">335dp</dimen>
+    <dimen name="recyclerView_item_space5">5dp</dimen>
+
+    <dimen name="recyclerview_item_height0">194px</dimen>
+    <dimen name="recyclerview_item_width0">338px</dimen>
+
+    <dimen name="recyclerview_item_width11">165px</dimen>
+    <dimen name="recyclerview_item_height11">134px</dimen>
+
+    <dimen name="recyclerview_item_height2">336px</dimen>
+    <dimen name="recyclerview_item_width2">250px</dimen>
+
+
+    <dimen name="recyclerview_item_width3">296px</dimen>
+    <dimen name="recyclerview_item_height3">336px</dimen>
+
+    <dimen name="recyclerview_item_width21">169px</dimen>
+    <dimen name="recyclerview_item_height21">171px</dimen>
+
+    <dimen name="recyclerview_item">350px</dimen>
+</resources>
